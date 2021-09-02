@@ -4,8 +4,8 @@
                DIPARTIMENTO DI INGEGNERIA DELL'INFORMAZIONE
                 CORSO DI LAUREA IN INGEGNERIA INFORMATICA
                     
-                    POTATURA DI RETI NEURALI PROFONDE 
-                  MEDIANTE ANALISI DISCRIMINANTE LINEARE
+                    "POTATURA DI RETI NEURALI PROFONDE 
+                  MEDIANTE ANALISI DISCRIMINANTE LINEARE"
     
     Relatore: Prof. Nanni Loris
     Laureando: Guglielmin Niccolò
