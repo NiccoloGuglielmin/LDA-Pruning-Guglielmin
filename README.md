@@ -1,4 +1,4 @@
-# LDAPruningGuglielmin
+# LDA-Pruning-Guglielmin
 
                     UNIVERSITA' DEGLI STUDI DI PADOVA
                DIPARTIMENTO DI INGEGNERIA DELL'INFORMAZIONE
